@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "pterodactyl1234",
+    "database": "car_rental",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "pterodactyl1234",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "pterodactyl1234",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
